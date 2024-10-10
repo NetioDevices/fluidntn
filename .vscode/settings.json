@@ -1,0 +1,18 @@
+{
+    "dart.openDevTools": "never",
+    "dart.lineLength": 80,
+    "editor.fontSize": 16,    
+     "editor.formatOnSave": false,
+     "editor.formatOnType": false,
+    "[dart]": 
+    {
+     "editor.formatOnSave": false,
+     "editor.formatOnType": false,   
+     "dart.previewSdkDaps": false 
+    },
+    "cmake.sourceDirectory": "/home/ph/src-hart/FLUTTER/PROJETOS/hart_scp_wl/linux",
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.autoExpandLazyVariables": true,
+    "dart.sdkPath": null,
+     "dart.previewSdkDaps": false
+}
